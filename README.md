@@ -1,6 +1,6 @@
 # Customer Segmentation using K-means Clustering and PCA
 
-👉 **Click here to view the full Interactive HTML Report:** [Dán link GitHub Pages của bạn vào đây]
+👉 **Click here to view the full Interactive HTML Report:** [(https://github.com/chinghianguyenvn/Customer-Segmentation-Analysis/blob/main/Analysis_Customer_Segmentation.html)]
 
 ## 1. Research Question
 How can companies effectively segment the e-commerce customers based on demographic profiles, purchasing power and lifestyle behaviors to tailor personalized marketing strategies?
