@@ -1,6 +1,7 @@
 # Customer Segmentation using K-means Clustering and PCA
 
 👉 **Click here to view the full Interactive HTML Report:** [Analysis_Customer_Segmentation.html]
+
 The dataset used in this quantitative analysis is publicly available and sourced from Kaggle: [https://www.kaggle.com/datasets/dhrubangtalukdar/e-commerce-shopper-behavior-amazonshopify-based]"
 
 ## 1. Research Question
