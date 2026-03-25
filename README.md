@@ -11,8 +11,8 @@ To answer the research question, this study employs an unsupervised Machine Lear
 This quantitative method is chosen because it allows for the discovery of hidden behavioral patterns and personas within multivariate continuous data without pre-labeled outcomes. The underlying objective function for K-means is to minimize the within-cluster sum of squares (WCSS) to ensure cohesive and robust grouping.
 
 ## 3. 2D Customer Segmentation Map
-*(Giáo sư rất chú trọng vào kỹ năng trực quan hóa phân đoạn bằng đồ thị 2D PCA. Bạn hãy upload file ảnh biểu đồ của bạn lên repo và chèn link ảnh vào dòng dưới đây)*
-![2D Customer Segmentation Map](link-ảnh-bản-đồ-PCA-của-bạn.png)
+
+![2D Customer Segmentation Map](pca_segmentation_map)
 
 ## 4. Findings & Implications
 
